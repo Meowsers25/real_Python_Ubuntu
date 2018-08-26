@@ -8,3 +8,6 @@ def multiply(num1, num2):
     return num1 * num2
 answer = multiply(9, 9)
 print(answer)
+
+print('hello')
+print('wolds')
