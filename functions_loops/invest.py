@@ -7,4 +7,4 @@ def invest(amt, rate, time):
 
 
 invest(100, .05, 8)
-invest(2000, .025, 5)
+invest(2000, .025,
