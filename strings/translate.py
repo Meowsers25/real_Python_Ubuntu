@@ -1,0 +1,10 @@
+storage = input('Enter some text: ')
+storage = storage.replace('a', '4')
+storage = storage.replace('b', '8')
+storage = storage.replace('e', '3')
+storage = storage.replace('l', '1')
+storage = storage.replace('o', '0')
+storage = storage.replace('s', '5')
+storage = storage.replace('t', '7')
+
+print(storage)
